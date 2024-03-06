@@ -1,4 +1,4 @@
-package lv0;
+package programmers.lv0;
 
 public class SharePizza_2 {
     public static void main(String[] args) {
