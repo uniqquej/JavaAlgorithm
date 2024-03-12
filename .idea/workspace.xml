@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73c5b589-a74d-4537-8ea3-254a1aaf0597" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/CountNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/PrintRightTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/RemoveChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/RepeatChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/AgeOfPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/ArrayIndexing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/Lamb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/NumberOfPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/OrderOfMedical.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
