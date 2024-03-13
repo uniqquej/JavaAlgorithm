@@ -3,7 +3,6 @@ package programmers.lv0;
 public class SharingBead {
     public static void main(String[] args) {
         System.out.println(solution(30,28));
-        System.out.println(solution2(30,28));
     }
 
     public static int solution(int balls, int share){
