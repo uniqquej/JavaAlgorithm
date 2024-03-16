@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73c5b589-a74d-4537-8ea3-254a1aaf0597" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/CreateMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/FindSyntheticNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/NumberOfDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/RemoveVowels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/lv0/SharingBead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/SharingBead.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
