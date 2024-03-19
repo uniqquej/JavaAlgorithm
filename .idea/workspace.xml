@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73c5b589-a74d-4537-8ea3-254a1aaf0597" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/CtrlZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/HiddenNumberAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/LengthOfArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/PrimeFactorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/SortString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="73c5b589-a74d-4537-8ea3-254a1aaf0597" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
