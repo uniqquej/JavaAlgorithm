@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73c5b589-a74d-4537-8ea3-254a1aaf0597" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/NumberOfSeven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/SaveToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv0/SortingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv1/Avg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv1/SumOfDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv1/AddNUm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv1/ChangeStringToInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv1/CountPY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv1/InterverOfX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/lv1/ReverseInt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
